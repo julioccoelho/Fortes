@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/12/15 08:58:57.000.059,=C:\Users\Julio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/06/29 10:58:22.000.071,=C:\Users\Julio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/01 16:17:51.000.723,=C:\Users\Julio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/01 16:18:13.000.061,=C:\Desenvolvimento\FortesSelecao\classeTanque.pas</Transaction>
+    <Transaction>2021/07/01 16:18:13.000.093,=C:\Desenvolvimento\FortesSelecao\FormularioPrincipal.pas</Transaction>
+    <Transaction>2021/07/01 16:18:13.000.127,=C:\Desenvolvimento\FortesSelecao\FormularioTanque.pas</Transaction>
+    <Transaction>2021/07/01 16:18:13.000.053,=C:\Desenvolvimento\FortesSelecao\classeConexao.pas</Transaction>
+    <Transaction>2021/07/01 16:19:21.000.709,C:\Users\Julio\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Desenvolvimento\FortesSelecao\Fortes.dproj</Transaction>
+    <Transaction>2021/07/01 18:42:45.000.224,=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/01 18:44:56.000.732,C:\Desenvolvimento\FortesSelecao\Unit1.pas=C:\Desenvolvimento\FortesSelecao\FormularioBomba.pas</Transaction>
+    <Transaction>2021/07/01 18:44:56.000.732,C:\Desenvolvimento\FortesSelecao\Unit1.dfm=C:\Desenvolvimento\FortesSelecao\FormularioBomba.dfm</Transaction>
+    <Transaction>2021/07/02 09:11:45.000.150,=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/02 09:39:00.000.003,=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/02 09:50:17.000.221,=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/02 09:53:18.000.938,=C:\Desenvolvimento\FortesSelecao\Unit2.pas</Transaction>
+    <Transaction>2021/07/02 09:58:06.000.225,C:\Desenvolvimento\FortesSelecao\Unit1.pas=C:\Desenvolvimento\FortesSelecao\classeConexaoFD.pas</Transaction>
+    <Transaction>2021/07/02 10:38:49.000.917,=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/02 10:41:12.000.322,C:\Desenvolvimento\FortesSelecao\Unit1.pas=C:\Desenvolvimento\FortesSelecao\DataModulePrincipal.pas</Transaction>
+    <Transaction>2021/07/02 10:41:12.000.322,C:\Desenvolvimento\FortesSelecao\Unit1.dfm=C:\Desenvolvimento\FortesSelecao\DataModulePrincipal.dfm</Transaction>
+    <Transaction>2021/07/02 10:50:43.000.656,C:\Desenvolvimento\FortesSelecao\classeConexao.pas=</Transaction>
+    <Transaction>2021/07/02 10:50:43.000.649,C:\Desenvolvimento\FortesSelecao\classeConexaoFD.pas=</Transaction>
+    <Transaction>2021/07/02 13:57:49.000.805,=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/02 13:58:53.000.713,C:\Desenvolvimento\FortesSelecao\Unit1.pas=C:\Desenvolvimento\FortesSelecao\classeBomba.pas</Transaction>
+    <Transaction>2021/07/03 08:30:33.000.354,=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 08:31:47.000.154,C:\Desenvolvimento\FortesSelecao\Unit1.dfm=C:\Desenvolvimento\FortesSelecao\FormularioAbastecimento.dfm</Transaction>
+    <Transaction>2021/07/03 08:31:47.000.154,C:\Desenvolvimento\FortesSelecao\Unit1.pas=C:\Desenvolvimento\FortesSelecao\FormularioAbastecimento.pas</Transaction>
+    <Transaction>2021/07/03 09:09:40.000.134,=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 09:10:04.000.096,C:\Desenvolvimento\FortesSelecao\Unit1.pas=C:\Desenvolvimento\FortesSelecao\classeAbastecimento.pas</Transaction>
+    <Transaction>2021/07/03 14:13:49.000.078,=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 14:14:40.000.726,C:\Desenvolvimento\FortesSelecao\Unit1.pas=C:\Desenvolvimento\FortesSelecao\FormularioAbastece.pas</Transaction>
+    <Transaction>2021/07/03 14:14:40.000.726,C:\Desenvolvimento\FortesSelecao\Unit1.dfm=C:\Desenvolvimento\FortesSelecao\FormularioAbastece.dfm</Transaction>
+    <Transaction>2021/07/03 15:04:34.000.060,C:\Desenvolvimento\FortesSelecao\FormularioAbastecimento.pas=</Transaction>
+    <Transaction>2021/07/03 15:37:00.000.085,=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 16:00:22.000.334,C:\Desenvolvimento\FortesSelecao\FormularioRelAbastecimento.pas=C:\Desenvolvimento\FortesSelecao\Unit1.pas</Transaction>
+    <Transaction>2021/07/03 16:00:22.000.334,C:\Desenvolvimento\FortesSelecao\FormularioRelAbastecimento.dfm=C:\Desenvolvimento\FortesSelecao\Unit1.dfm</Transaction>
+    <Transaction>2021/07/07 17:55:00.032,=C:\Desenvolvimento\FortesTecnologia\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 17:55:21.427,C:\Desenvolvimento\FortesTecnologia\classeTecnologia.pas=C:\Desenvolvimento\FortesTecnologia\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
